@@ -1,11 +1,18 @@
- 
+<?xml version="1.0" encoding="UTF-8"?>
+
 <item>
-<title>IPTV</title>
-<link>http://ignorame</link> 
-<externallink>https://raw.githubusercontent.com/sgwizard2511/sgtv/master/list1.m3u8<externallink>
-<thumbnail>https://archive.org/download/si_Vod_201808/vod.png</thumbnail>  
-<fanart>LINK TO AN IMAGE FOR BACKGROUND</fanart>
-</item>
+<title>[B] [I] [COLOR red]HRVATSKI[/B] [/I] [/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://www.mostarkodibuild.com/build_slike/kodi.jpg</thumbnail>
+<fanart>https://www.mostarkodibuild.com/build_slike/kodi.jpg</fanart>
+<externallink>http://mostarkodibuild.com/IPTV/HRVATSKI/HRVATSKI.xml<externallink>
+<item>
+
+<item>
+<title>[B] [I] [COLOR red]REGIONALNI[/B] [/I] [/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://www.mostarkodibuild.com/build_slike/kodi.jpg</thumbnail>
+<fanart>https://www.mostarkodibuild.com/build_slike/kodi.jpg</fanart>
+<externallink>http://mostarkodibuild.com/IPTV/REGIONALNI/REGIONALNI.xml<externallink>
+<item>
  
 
  
